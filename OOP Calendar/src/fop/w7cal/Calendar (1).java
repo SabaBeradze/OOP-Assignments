@@ -1,4 +1,4 @@
-package fop.w7cal;
+package com.company;
 
 public class Calendar {
     EventList events;
