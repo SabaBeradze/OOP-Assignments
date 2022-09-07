@@ -6,7 +6,7 @@ public class Entry {
     private String firstName;
     private String lastName;
     private String phoneNumber;
-
+//bla
     public Entry(String firstName, String lastName, String phoneNumber){
         this.firstName = firstName;
         this.lastName = lastName;
