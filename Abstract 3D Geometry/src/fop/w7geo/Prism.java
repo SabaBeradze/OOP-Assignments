@@ -1,4 +1,4 @@
-package fop.w7geo;
+package com.company;
 
 public class Prism {
     private BaseArea base;
