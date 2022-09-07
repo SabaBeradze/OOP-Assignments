@@ -1,4 +1,4 @@
-package fop.w7geo;
+package com.company;
 
 public abstract class BaseArea {
     public abstract double circumference();
