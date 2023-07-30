@@ -6,6 +6,9 @@ public class Car {
     private LicensePlate licensePlate;
     private int chassisNumber;
 
+    public void foo() {
+    }
+
     private static int count = 0;
 
     public Car(String brand, LicensePlate licensePlate) {
